@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\artem\\university\\proj_web_les\\lab6\\collaborativenotes\\baselibrary\\entities\\usernote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\usernote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\artem\\university\\proj_web_les\\lab6\\collaborativenotes\\baselibrary\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\artem\\university\\proj_web_les\\lab6\\collaborativenotes\\baselibrary\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{058017F6-910D-43C3-8759-FC6E35994812}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\artem\\university\\proj_web_les\\lab6\\collaborativenotes\\serverlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{058017F6-910D-43C3-8759-FC6E35994812}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\artem\\university\\proj_web_les\\lab6\\collaborativenotes\\baselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F8CE3D-358C-4C55-B13F-7AED27A2C236}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserNote.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Entities\\UserNote.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\UserNote.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Entities\\UserNote.cs*",
+              "RelativeToolTip": "BaseLibrary\\Entities\\UserNote.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:05:02.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Entities\\User.cs*",
+              "RelativeToolTip": "BaseLibrary\\Entities\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:04:45.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Entities\\Note.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Entities\\Note.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Entities\\Note.cs",
+              "RelativeToolTip": "BaseLibrary\\Entities\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:02:36.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\ServerLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\ServerLibrary\\Class1.cs",
+              "RelativeToolTip": "ServerLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:41:20.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "BaseLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\artem\\University\\Proj_Web_Les\\lab6\\CollaborativeNotes\\BaseLibrary\\Class1.cs",
+              "RelativeToolTip": "BaseLibrary\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:40:54.003Z"
             }
           ]
         }
